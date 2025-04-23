@@ -55,7 +55,7 @@ npm install
 ### Install Frontend Dependencies:
 ```
 cd ../Client/movie-site
-npm instal
+npm install
 ```
 
 ---
