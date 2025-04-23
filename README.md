@@ -44,3 +44,32 @@ A full-stack Movie Review application built using the **MERN Stack** (MongoDB, E
 ```bash
 git clone https://github.com/your-username/movie-review-site.git
 cd movie-review-site
+```
+
+### Install Backend Dependencies:
+```
+cd server
+npm install
+```
+
+### Install Frontend Dependencies:
+```
+cd ../client
+npm instal
+```
+
+---
+
+## 🚦 Running the App
+
+### Run Backend:
+```
+cd server
+npm run dev
+```
+
+### Run Frontend:
+```
+cd client
+npm run dev
+```
