@@ -48,13 +48,13 @@ cd movie-review-site
 
 ### Install Backend Dependencies:
 ```
-cd server
+cd Server
 npm install
 ```
 
 ### Install Frontend Dependencies:
 ```
-cd ../client
+cd ../Client/movie-site
 npm instal
 ```
 
@@ -64,12 +64,12 @@ npm instal
 
 ### Run Backend:
 ```
-cd server
+cd Server
 npm run dev
 ```
 
 ### Run Frontend:
 ```
-cd client
+cd Client/movie-site
 npm run dev
 ```
